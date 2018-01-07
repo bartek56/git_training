@@ -3,7 +3,7 @@
 
 int main()
 {
- std::cout << "Hello World" << std::endl;
+ std::cout << "Witaj Swiecie" << std::endl;
  system("PAUSE");
  return 0;
 }
